@@ -2,23 +2,26 @@
 layout: page
 title: Services
 permalink: /services/
+header:
+	theme: dark
 ---
 
-We offer expert consulting across the data lifecycle. Below are common engagement areas. Replace or expand as needed.
+We offer expert services across the data lifecycle. Below are common engagement areas. Replace or expand as needed.
 
-### Medical data analysis
-- Study design and statistical analysis
-- Cohort extraction and data wrangling (EHR, claims, registries)
+### Medical & Biomedical Data Science
+- Study design and statistical/statistical learning analysis
+- Cohort extraction and data wrangling (EHR, claims, registries, OMOP)
 - Reproducible analytics and reporting
 
-### Deidentification
+### Privacy & Deidentification (HIPAA Expert Determination)
 - HIPAA Safe Harbor and Expert Determination workflows
-- Structured and unstructured data (tabular, notes, images)
-- k-anonymity, l-diversity, t-closeness strategies
+- Structured & unstructured data (tabular, clinical notes, imaging, genomics)
+- Quantitative privacy risk assessment (k-anonymity, l-diversity, t-closeness)
 
-### Machine learning
+### Machine Learning & Drug Discovery Analytics
 - Predictive modeling and risk scoring
-- NLP for clinical text
-- MLOps: model evaluation, monitoring, and governance
+- NLP for clinical text and biomedical literature
+- Feature engineering from multi-modal sources
+- MLOps: evaluation, monitoring, governance
 
 Need something specific? We tailor solutions to your domain, data, and constraints.

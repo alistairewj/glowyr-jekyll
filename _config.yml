@@ -1,7 +1,8 @@
 title: Glowyr Inc.
-tagline: Scientific and technical consulting
+tagline: Scientific and Technical Services
 description: >-
-  Glowyr Inc. provides expert consultation on medical data analysis, deidentification, and machine learning.
+  Glowyr Inc. provides expert consultation on medical and biomedical data science,
+  HIPAA expert determination (privacy & deidentification), machine learning, and drug discovery analytics.
 
 url: https://glowyr.ca
 baseurl: ""
@@ -20,11 +21,8 @@ author:
   name: Glowyr Inc.
   url: https://glowyr.ca
 
-# Social and contact (placeholders)
-email: info@glowyr.ca
-twitter_username: glowyr
-github_username: glowyr
-linkedin_username: company/glowyr
+# Contact
+email: contact@glowyr.ca
 
 # Build settings
 markdown: kramdown
