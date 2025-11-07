@@ -1,0 +1,8 @@
+# Header navigation for TeXt theme
+header:
+  - title:      Services
+    url:        /services/
+  - title:      About
+    url:        /about/
+  - title:      Contact
+    url:        /contact/

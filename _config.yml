@@ -1,0 +1,56 @@
+title: Glowyr Inc.
+tagline: Scientific and technical consulting
+description: >-
+  Glowyr Inc. provides expert consultation on medical data analysis, deidentification, and machine learning.
+
+url: https://glowyr.ca
+baseurl: ""
+
+# Use TeXt theme as a gem
+theme: jekyll-text-theme
+
+# Basics
+timezone: Etc/UTC
+lang: en
+
+permalink: /:title/
+
+# Author/site metadata
+author:
+  name: Glowyr Inc.
+  url: https://glowyr.ca
+
+# Social and contact (placeholders)
+email: info@glowyr.ca
+twitter_username: glowyr
+github_username: glowyr
+linkedin_username: company/glowyr
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins supported by GitHub Actions build (no GitHub Pages restrictions when using artifacts)
+plugins: []
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+
+collections:
+  posts:
+    output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+include:
+  - CNAME
