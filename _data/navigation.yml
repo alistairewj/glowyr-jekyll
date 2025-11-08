@@ -2,7 +2,5 @@
 header:
   - title:      Services
     url:        /services/
-  - title:      About
-    url:        /about/
-  - title:      Contact
-    url:        /contact/
+  - title:      Team
+    url:        /team/

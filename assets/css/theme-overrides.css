@@ -1,0 +1,13 @@
+/* Custom navigation banner overrides (light theme only) */
+.header { background:#ffffff !important; box-shadow:0 1px 0 rgba(0,0,0,.08); }
+.header.header--dark { background:#ffffff !important; }
+.header a { color:#111 !important; font-weight:500; }
+.header a:hover { color:#fc4d50 !important; }
+.navigation { display:flex; align-items:center; }
+.navigation ul { display:flex; gap:1.25rem; margin:0; padding:0; list-style:none; }
+.navigation__item a { text-decoration:none; }
+.navigation__item a:focus-visible { outline:2px solid #2563eb; outline-offset:2px; border-radius:4px; }
+
+@media (max-width:720px){
+  .navigation ul { flex-wrap:wrap; gap:.75rem; }
+}
