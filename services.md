@@ -6,19 +6,18 @@ header:
 	theme: dark
 ---
 
-### Medical & Biomedical Data Science
-- Study design and statistical plan
+### Medical Data Science & Machine Learning
+- Study design and analysis
 - Cohort extraction and data wrangling (EHR, claims, registries, OMOP)
-- Reproducible analytics and reporting
+- Predictive modeling
 
 ### Privacy & Data Governance
 - Deidentification of structured & unstructured data (tabular, clinical notes, imaging, genomics)
 - Quantitative privacy risk assessment (k-anonymity, l-diversity, t-closeness)
 - HIPAA Safe Harbor and Expert Determination
 
-### Machine Learning & Drug Discovery
-- Predictive modeling and risk scoring
-- NLP for clinical text and biomedical literature
-- Feature engineering from multi-modal sources
+### Drug Discovery
+- Experimental design and data interpretation
+- Exploratory research and target validation
 
 Need something specific? We tailor solutions to your domain, data, and constraints.

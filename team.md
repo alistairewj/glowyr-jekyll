@@ -27,7 +27,7 @@ header:
     <img src="/assets/images/scientist.png" alt="Photo of Placeholder Name" class="team-avatar" />
     <div class="team-info">
     <h3>Tianshu Feng, Director</h3>
-    <p>Biologist with end-to-end small‑molecule discovery experience from hit finding to lead optimization. Extensive experience with in vivo pharmacology and a proven track record delivering multiple validated oncology targets from bench to IND.</p>
+    <p>Biologist with end-to-end small‑molecule discovery experience from hit finding to IND. Extensive experience in cell biology and in vivo pharmacology.</p>
     </div>
   </div>
 </div>
