@@ -16,9 +16,6 @@ header:
       Get in touch: contact [at] glowyr [dot] ca
     </div>
   </div>
-  <div class="hero__image">
-    <img src="/assets/images/gnome.png" alt="Glowyr Inc." loading="lazy" />
-  </div>
 </section>
 
 We offer expert services across the data lifecycle, including healthcare data stewardship, medical data analysis, and drug discovery.
