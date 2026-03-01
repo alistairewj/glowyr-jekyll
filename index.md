@@ -10,7 +10,7 @@ header:
 
 <section class="hero">
   <div class="hero__content">
-    <h1>Scientific & Technical Expertise</h1>
+    <h1>Scientific & Technical Research</h1>
     <p>For biotech, healthcare, and the life sciences.</p>
     <div class="cta">
       Get in touch: contact [at] glowyr [dot] ca
@@ -18,7 +18,7 @@ header:
   </div>
 </section>
 
-We offer expert services across the data lifecycle, including healthcare data stewardship, medical data analysis, and drug discovery.
+We conduct expert level scientific and technical research across clinical medicine, spanning clinical data analysis to drug discovery.
 
 <style>
 /* Page-scoped minimalist enhancements */
