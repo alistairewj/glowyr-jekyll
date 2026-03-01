@@ -1,6 +1,6 @@
 # Header navigation for TeXt theme
 header:
-  - title:      Services
-    url:        /services/
+  - title:      Projects
+    url:        /projects/
   - title:      Team
     url:        /team/

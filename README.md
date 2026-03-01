@@ -36,12 +36,13 @@ bundle update
 ```
 
 ## Project structure (key files)
+
 - `_config.yml` — site configuration and theme settings
 - `_data/navigation.yml` — header navigation links
 - `_includes/head/favicon.html` — favicon override (pickaxe icon)
 - `assets/favicon.svg` — current favicon
 - `index.html` — home page (dark header)
-- `about.md`, `services.md`, `contact.md`, `404.html` — content pages
+- `*.md`, `404.html` — content pages
 - `.github/workflows/pages.yml` — GitHub Pages deployment via Actions
 - `CNAME` — custom domain (glowyr.ca)
 
